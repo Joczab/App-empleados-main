@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeApp</string>
+    <string name="search_bar">Search Bar</string>
+    <string name="busca_un_empleado">Busca un empleado</string>
+</resources>
